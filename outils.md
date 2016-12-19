@@ -1,5 +1,11 @@
 # outils : 
 
+## Latex distribution
+
+1. Miktex (windows)
+2. Texlive (min, linux, macos)
+2. Protext (based on miktex +, windows)
+
 ## Systèmes d'explotation linux
 
 1. Fedora
