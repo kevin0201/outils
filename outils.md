@@ -1,5 +1,11 @@
 # outils : 
 
+## Developpement web
+
+1. w3.css (thème css responsive)
+2. bootstrap.css et bootstrap.js ()
+
+
 ## Latex distribution
 
 1. Miktex (windows)
