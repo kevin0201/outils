@@ -1,0 +1,7 @@
+# Solutions pour problème avec R
+
+1. Sous windows, installer miktek dans un repertoire tel que le chemin n'ai pas d'espace. Sinon R-studio ne pourra le detecter.
+    l'installer dans le C:/ si possible
+    
+2. Pour paramétrer R tel qu'il puisse passer le proxy, il faut renseigner la variable d'environnement http_proxy. (Sys.setenv(http_proxy="mot de passe, uid et addresse proxy"))
+    pour plus d'information, voir l'aide "download.file".
