@@ -1,0 +1,4 @@
+Solutions pour python
+
+1. Pour configurer l'accès au proxy sous anaconda python, il faut creer un fichier .condarc dans le dossier principal 
+		d'installation d'anaconda dans lequel on met les informations du proxy.
