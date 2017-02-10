@@ -14,11 +14,11 @@
 
 ## Systèmes d'explotation linux
 
-1. Fedora
+1. Fedora ***
 2. Ubuntu
-3. OpenSuse
+3. OpenSuse ***
 4. LinuxMint
-5. Antergos (pas testé)
+5. Antergos Arch linux (pas testé)
 
 ## Virtualisation de sytème
 
@@ -37,17 +37,20 @@
 
 1. google charts
 2. d3js
+3. plotly
 
 ### R
 
 1. ggplot2
 2. dygraph js
 3. shiny
+4. plotly
 
 ### python 
 
 1. bokeh js
 2. matplotlib
+3. plotly
 
 ## Créer des rapports et des présentations
 
@@ -90,11 +93,13 @@
 
 1. Pycharm
 2. Anaconda (environnement scientique)
+3. Orange
 
 #### Linux
 
 1. Pycharm
 2. Anaconda (environnement scientique)
+3. Orange
 
 
 
