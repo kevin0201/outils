@@ -18,7 +18,7 @@
 2. Ubuntu
 3. OpenSuse ***
 4. LinuxMint
-5. Antergos Arch linux (pas testé)
+5. Antergos Arch linux ( rolling releases)
 
 ## Virtualisation de sytème
 
